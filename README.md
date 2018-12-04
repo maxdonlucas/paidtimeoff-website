@@ -7,8 +7,8 @@ That includes music, lyrics, videos, photographs, podcasts, merchandise etc.
 So far a basic skeleton has been built, navigation bar, as well as two lyric pages.
 
 TODO:
-Layout basic index page
-Finish lyric pages and add functionality for meaning behind certain stanzas like Genis.com has it
-Add images
-Create and add logo
-Fix twitter and youtube links in the contact section
+Layout basic index page.
+Finish lyric pages and add functionality for meaning behind certain stanzas like Genis.com has it.
+Add images.
+Create and add logo.
+Fix twitter and youtube links in the contact section.
