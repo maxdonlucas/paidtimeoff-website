@@ -1,6 +1,6 @@
 # paidtimeoff-website
 
-This project is for a website for a music group. Eventually I'd like the website to have a number of functionalities.
+This project is a website for a music group. Eventually I'd like the website to have a number of functionalities.
 The main being a source of news/information about the group as well as a place to view all the work being done by them.
 That includes music, lyrics, videos, photographs, podcasts, merchandise etc.
 
